@@ -16,6 +16,12 @@ function divide(a, b) {
     return a / b;
 }
 
+<<<<<<< HEAD
 function power(a, b) {
 return Math.pow(a, b);
 }
+=======
+function modulo(a, b) {
+return a % b;
+}
+>>>>>>> e027c81bef312d356a763dac911ff811f12f25e4
